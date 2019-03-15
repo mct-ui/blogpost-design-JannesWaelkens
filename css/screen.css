@@ -96,11 +96,13 @@ img {
 h1,
 h2,
 h3 {
+
+  color : #17181A;
   font-family: "Inter UI Web", "Helvetica Neue", Helvetica, arial, sans-serif; */
 
-  color : #17181A
 }
 h1 {
+    font-family: 'Playfair Display', serif;
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
@@ -185,7 +187,7 @@ a:active {
 
 a:hover,
 a:focus {
-    color: #1ABAFF;
+    color: #004766;
 }
 
 /* Small devices (landscape phones, 576px and up) */
